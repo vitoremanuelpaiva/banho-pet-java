@@ -4,7 +4,7 @@ Exercício do bootcamp de Java sobre Programação Orientada a Objetos. O progra
 
 ## Como rodar
 
-1. Compile os arquivos da pasta `ex011`.
+1. Compile os arquivos da pasta `banho`.
 2. Execute a classe `MenuBanho`, que contém o método `main`.
 3. Escolha as opções digitando o número no terminal.
 
