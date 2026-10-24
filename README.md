@@ -1,4 +1,4 @@
-# Máquina de Banho de Pet (ex011)
+# Máquina de Banho de Pet 
 
 Exercício do bootcamp de Java sobre Programação Orientada a Objetos. O programa simula uma máquina de banho de pet com controle de água e shampoo, rodando por um menu no terminal.
 
